@@ -6,6 +6,8 @@ I mostly write Python for work, with some pretty bad Typescript/React for fun.
 
 ### (...mostly) Active side projects:
 
+[Tacticle](https://tacticle.co) - Daily chess puzzles, wordle style
+
 [sensibledefaults.io](https://sensibledefaults.io) - Where I've written down a few things I've learned
 
 [pmf.dev](https://pmf.dev) - Low code embeddable surveys and analysis
