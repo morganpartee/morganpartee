@@ -10,6 +10,8 @@ I mostly write Python for work, with some pretty bad Typescript/React for fun.
 
 [sensibledefaults.io](https://sensibledefaults.io) - Where I've written down a few things I've learned
 
+#### Less active:
+
 [pmf.dev](https://pmf.dev) - Low code embeddable surveys and analysis
 
 [OpeningAid.com](https://openingaid.com) - A better way to learn chess openings (...big eventually)
