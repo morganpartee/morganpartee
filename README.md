@@ -28,4 +28,4 @@ MLOps
 
 UX Design, particularly making stuff prettier (which I am *bad* at)
 
-Chess (Add me on [Chess.com](https://www.chess.com/member/morganpartee))
+Chess (Add me on [Chess.com](https://www.chess.com/member/gmblunders))
