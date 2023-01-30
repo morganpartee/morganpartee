@@ -4,19 +4,12 @@ I'm John. I'm a machine learning engineer with a small startup doing really cool
 
 I mostly write Python for work, with some pretty bad Typescript/React for fun.
 
-### (...mostly) Active side projects:
+### Active side projects:
 
 [Tacticle](https://tacticle.co) - Daily chess puzzles, wordle style
 
 [sensibledefaults.io](https://sensibledefaults.io) - Where I've written down a few things I've learned
 
-#### Less active:
-
-[pmf.dev](https://pmf.dev) - Low code embeddable surveys and analysis
-
-[OpeningAid.com](https://openingaid.com) - A better way to learn chess openings (...big eventually)
-
-With a few other easy to use ML app ideas floating around in my head, and one or two kinda neat chess app ideas.
 
 ### Actively Learning:
 
